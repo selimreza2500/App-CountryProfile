@@ -17,7 +17,7 @@ public class bangladesh extends AppCompatActivity {
     }
 
     public void Dhaka(View view) {
-        Intent Dhaka = new Intent(bangladesh.this,dhaka.class);
+        Intent Dhaka = new Intent(bangladesh.this,bangladesh.class);
         startActivity(Dhaka);
     }
 }
