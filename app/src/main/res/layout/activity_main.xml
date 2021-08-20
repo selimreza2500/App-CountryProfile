@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#148e73"
+    android:backgroundTint="#8BC34A"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/bangladeshButtonid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/iconbd"
+        android:text="@string/bangladesh_name"
+        android:onClick="bd"
+        android:textColor="#36F321"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/indiaButtonid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/indiaicon3"
+        android:text="@string/india_name"
+        android:onClick="india"
+        android:textColor="#36F321"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/pakistanButtonid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/pakistaniconsvg"
+        android:text="@string/pakistan_name"
+        android:onClick="pk"
+        android:textColor="#36F321"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/srilankaButtonid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/mayanmar"
+        android:text="Myanmar"
+        android:onClick="my"
+        android:textColor="#36F321"
+        android:textSize="20sp"
+        android:textStyle="bold"
+         />
+
+
+</LinearLayout>

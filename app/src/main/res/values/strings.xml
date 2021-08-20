@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="bangladesh_name">BANGLADESH</string>
+    <string name="india_name">INDIA</string>
+    <string name="pakistan_name">PAKISTAN</string>
+
+    <string name="bdtext"> Bangladesh, to the east of India on the Bay of Bengal,
+        is a South Asian country marked by lush greenery and many waterways.
+        Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common.
+        On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India,
+        is home to the royal Bengal tiger.\n\n
+        
+        Capital: Dhaka\n
+        Dialing code: +880\n
+        President: Abdul Hamid\n
+        Population: 163 million (2019)\n
+        Gross domestic product: 302.6 billion USD (2019)\n
+    </string>
+    <string name="indiatext"> India, officially the Republic of India, is a country in South Asia.
+        It is the second-most populous country, the seventh-largest country by land area,
+        and the most populous democracy in the world.\n\n
+        
+        President: Ram Nath Kovind Trending\n
+        Capital: New Delhi\n
+        Dialing code: +91\n
+        Area: 3.287 million km²\n
+        Population: 1.366 billion (2019) \n
+        Prime minister: Narendra Modi\n
+    
+    </string>
+
+    <string name="pakistantext">
+
+        Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia.
+        It is the world\'s fifth-most populous country, with a population exceeding 225.2 million, and has the world\'s second-largest Muslim population.
+        Pakistan is the 33rd-largest country by area, spanning 881,913 square kilometres.\n\n
+
+        Prime minister: Imran Khan Trending\n
+        Capital: Islamabad\n
+        Dialing code: +92\n
+        President: Arif Alvi\n
+        Population: 216.6 million (2019) World Bank\n
+    </string>
+
+    <string name="mayanmarText">
+        
+        Myanmar (formerly Burma) is a Southeast Asian nation of more than 100 ethnic groups,
+        bordering India, Bangladesh, China, Laos and Thailand. Yangon (formerly Rangoon),
+        the country\'s largest city, is home to bustling markets, numerous parks and lakes, and the towering,
+        gilded Shwedagon Pagoda, which contains Buddhist relics and dates to the 6th century.
+        \n\n
+        Capital: Naypyitaw\n
+        Area: 676,575 km²\n
+        Population: 54.05 million (2019)\n
+        Currency: Myanmar kyat\n
+        Gross domestic product: 76.09 billion USD (2019) \n
+
+
+
+    </string>
+    <string name="title_activity_bangladeshsubactivity">Bangladeshsubactivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
